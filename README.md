@@ -1,5 +1,7 @@
 # Africas-Tropical-Forests
 [Africa’s Tropical Forests](FADAIR2025_AfricasTropicalForests.pdf)<br>
+Citation: Adair, F. J. (2026). Africa's Tropical Forests. Zenodo. https://doi.org/10.5281/zenodo.20572891
+
 <br>
 Central Africa is home to the Guineo-Congolian rainforests that have persisted in one form or another for millions of years. Gorillas have evolved alongside the forests but habitat loss and the bushmeat trade threaten their continued existence. Increasing temperatures from climate change is drying soil and excessive atmospheric CO2 is altering vegetation compositions. Suitable agricultural land is adversely affected and so more forest is cleared in a feedback loop as fertile soils become increasingly rare. Logging practices could be made more sustainable but are generally destructive and pave the way for large-scale human habitation at the expense of biodiversity. In response to local, regional, and global pressures forest dependent and indigenous communities' are being driven to unsustainably exploit the forest too. Since their livelihoods and access to land are being drastically altered, developing a strategy to support these people must go beyond reducing pollution to meet climate goals. If correctly perceived and implemented then the conservation of tropical rainforest can contribute to both adaptation and mitigation actions.<br>
 <br>
